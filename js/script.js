@@ -15,7 +15,7 @@ let user2 = {
 }
 
 if (user1.age > user2.age) {
-    alert("Birinchi  Ikkinchidan katta")gi
+    alert("Birinchi  Ikkinchidan katta")
 } else if (user1.age < user2.age) {
     alert("Birinchi Ikkinchidan kichkina")
 } else if (user1.age == user2.age) {
@@ -23,6 +23,18 @@ if (user1.age > user2.age) {
 } else {
     alert('Error')
 }
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
